@@ -1,36 +1,40 @@
 ### 🛠️ Tech Stack & Tools
 
-#### 💻 **Programming Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+#### 💻 Programming Languages
+<del>![Java](https://img.shields.io/badge/Java-8c8c8c?style=for-the-badge&logo=openjdk&logoColor=white)</del>
+<del>![Dart](https://img.shields.io/badge/Dart-8c8c8c?style=for-the-badge&logo=dart&logoColor=white)</del>
+<del>![Python](https://img.shields.io/badge/Python-8c8c8c?style=for-the-badge&logo=python&logoColor=white)</del>
+<del>![TypeScript](https://img.shields.io/badge/TypeScript-8c8c8c?style=for-the-badge&logo=typescript&logoColor=white)</del>
+<del>![Kotlin](https://img.shields.io/badge/Kotlin-8c8c8c?style=for-the-badge&logo=kotlin&logoColor=white)</del>
+<del>![Groovy](https://img.shields.io/badge/Groovy-8c8c8c?style=for-the-badge&logo=apachegroovy&logoColor=white)</del>
+<del>![Lua](https://img.shields.io/badge/Lua-8c8c8c?style=for-the-badge&logo=lua&logoColor=white)</del>
 
-#### ⚙️ **Efficiency & Automation**
-![Android Gradle Plugin](https://img.shields.io/badge/AGP-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IDEA_Plugins-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![AutoJS](https://img.shields.io/badge/AutoJS-3377FF?style=for-the-badge)
-![AutoHotkey](https://img.shields.io/badge/AHK-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
+#### ⚙️ Efficiency & Automation
+<del>![AGP](https://img.shields.io/badge/AGP-8c8c8c?style=for-the-badge&logo=android&logoColor=white)</del>
+<del>![IDEA Plugins](https://img.shields.io/badge/IDEA_Plugins-8c8c8c?style=for-the-badge&logo=intellij-idea&logoColor=white)</del>
+<del>![AutoJS](https://img.shields.io/badge/AutoJS-8c8c8c?style=for-the-badge)</del>
+<del>![AHK](https://img.shields.io/badge/AHK-8c8c8c?style=for-the-badge&logo=autohotkey&logoColor=white)</del>
 
-#### 🌐 **Frontend Frameworks**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Uni-App](https://img.shields.io/badge/Uni--App-2B9939?style=for-the-badge)
-![WeChat Mini Program](https://img.shields.io/badge/微信小程序-07C160?style=for-the-badge&logo=wechat&logoColor=white)
+#### 🌐 Frontend Frameworks
+<del>![Flutter](https://img.shields.io/badge/Flutter-8c8c8c?style=for-the-badge&logo=flutter&logoColor=white)</del>
+<del>![React](https://img.shields.io/badge/React-8c8c8c?style=for-the-badge&logo=react&logoColor=white)</del>
+<del>![Vue.js](https://img.shields.io/badge/Vue.js-8c8c8c?style=for-the-badge&logo=vue.js&logoColor=white)</del>
+<del>![Svelte](https://img.shields.io/badge/Svelte-8c8c8c?style=for-the-badge&logo=svelte&logoColor=white)</del>
+<del>![React Native](https://img.shields.io/badge/React_Native-8c8c8c?style=for-the-badge&logo=react&logoColor=white)</del>
+<del>![Uni-App](https://img.shields.io/badge/Uni--App-8c8c8c?style=for-the-badge)</del>
+<del>![微信小程序](https://img.shields.io/badge/微信小程序-8c8c8c?style=for-the-badge&logo=wechat&logoColor=white)</del>
 
-#### 🚀 **Backend Frameworks**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+#### 🚀 Backend Frameworks
+<del>![FastAPI](https://img.shields.io/badge/FastAPI-8c8c8c?style=for-the-badge&logo=fastapi&logoColor=white)</del>
+<del>![Flask](https://img.shields.io/badge/Flask-8c8c8c?style=for-the-badge&logo=flask&logoColor=white)</del>
+<del>![Redis](https://img.shields.io/badge/Redis-8c8c8c?style=for-the-badge&logo=redis&logoColor=white)</del>
 
-#### 🤖 **AI & Machine Learning**
-![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-7952B3?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-00C2FF?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B68EE?style=for-the-badge)
+#### 🤖 AI & Machine Learning
+<del>![LLM](https://img.shields.io/badge/LLM-8c8c8c?style=for-the-badge)</del>
+<del>![RAG](https://img.shields.io/badge/RAG-8c8c8c?style=for-the-badge)</del>
+<del>![LangChain](https://img.shields.io/badge/LangChain-8c8c8c?style=for-the-badge)</del>
+<del>![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8c8c8c?style=for-the-badge)</del>
+
+---
+
+> ✨ **Vibe Coding** — Prompt-first. Ship fast. Let the model do the heavy lifting.
